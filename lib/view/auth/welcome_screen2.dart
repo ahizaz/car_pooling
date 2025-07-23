@@ -38,7 +38,7 @@ class WelcomeScreen2 extends StatelessWidget {
                 textAlign: TextAlign.center,
               ),
               SizedBox(
-                height: 200,
+                height: 200,//
                 width: 300,
                 child: Padding(
                   padding: const EdgeInsets.all(24.0),
